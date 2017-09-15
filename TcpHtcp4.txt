@@ -1,0 +1,10 @@
+Waf: Entering directory `/home/minghe/Desktop/ns3/ns-allinone-3.26/ns-3.26/build'
+Waf: Leaving directory `/home/minghe/Desktop/ns3/ns-allinone-3.26/ns-3.26/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (2.227s)
+Sink 0	TotalRx: 13.2956Mb	Throughput: 0.221594Mbps
+Sink 1	TotalRx: 13.3038Mb	Throughput: 0.22173Mbps
+Sink 2	TotalRx: 13.2547Mb	Throughput: 0.220911Mbps
+Sink 3	TotalRx: 12.3781Mb	Throughput: 0.206302Mbps
+
+Totals	TotalRx: 52.2322Mb	Throughput: 0.870537Mbps
